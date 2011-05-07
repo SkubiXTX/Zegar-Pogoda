@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Zegar-ek</string>
+    <string name="add_city_title">Add city</string>
+    <string name="add_newcity">Add a new City</string>
+    <string name="datapl">00.00.2000 NIE</string>
+    <string name="zero">0</string>
+    <string name="opis">Częściowe Zachmurzenie</string>
+    <string name="data">Dzień</string>
+    <string name="temp">Temperatura (*C)</string>
+    <string name="desc">Prognoza</string>
+    <string name="wind">Prędkość wiatru (km/h)</string>
+    <string name="winddir">Kierunek wiatru</string>
+    <string name="rain">Opady (mm)</string>
+    <string name="humidity">Wilgotność (%)</string>
+    <string name="dane">dane</string>
+    <string name="dzis">Dzisiaj</string>
+    <string name="gps">Szukaj za pomocą GPS</string>
+    <string name="btnFullwupd">Aktualizuj Pełną Prognozę</string>
+    <string name="rosa">Punkt rosy (*C)</string>
+    <string name="chmury">Wys. chmur (m)</string>
+    <string name="slonce">Wsch/Zach Słońca</string>
+    <string name="press">Ciśnienie (hPa)</string>
+</resources>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opis">
+    	<item>Clear</item>
+		<item>Cloudy</item>
+		<item>Partly Cloudy</item>
+		<item>Partly Cloudy</item>
+		<item>Partly Sunny</item>
+		<item>Rain</item>
+		<item>Thunderstorms</item>
+		<item>Sunny</item>
+		<item>Snow</item>
+		<item>Flurries</item>
+		<item>Unknown</item>
+		<item>Chance of Snow</item>
+		<item>Snow</item>
+		<item>Cloudy</item>
+		<item>Rain</item>
+		<item>Chance of Rain</item>
+		<item>Partly Cloudy</item>
+		<item>Fair</item>
+		<item>Thunderstorms</item>
+		<item>Chance of Flurry</item>
+		<item>Chance of Rain</item>
+		<item>Chance of Sleet</item>
+		<item>Chance of Storms</item>
+		<item>Hazy</item>
+		<item>Mostly Cloudy</item>
+		<item>Sleet</item>
+		<item>Mostly Sunny</item>
+		<item>Chance of Flurry</item>
+		<item>Chance of Sleet </item>
+		<item>Chance of Snow</item>
+		<item>Chance of Storms</item>
+		<item>Clear</item>
+		<item>Flurries</item>
+		<item>Hazy</item>
+		<item>Mostly Cloudy </item>
+		<item>Fair</item>
+		<item>Sleet</item>
+		<item>Unknown</item>
+		<item>Chance of Rain Showers</item>
+		<item>Chance of Snow Showers</item>
+		<item>Snow Showers</item>
+		<item>Rain Showers</item>
+		<item>Chance of Rain Showers</item>
+		<item>Chance of Snow Showers</item>
+		<item>Snow Showers</item>
+		<item>Rain Showers</item>
+		<item>Freezing Rain</item>
+		<item>Freezing Rain</item>
+		<item>Chance Freezing Rain</item>
+		<item>Chance Freezing Rain</item>
+		<item>Windy</item>
+		<item>Fog</item>
+		<item>Scattered Showers</item>
+		<item>Scattered Thunderstorms</item>
+		<item>Light Snow</item>
+		<item>Chance of Light Snow</item>
+		<item>Frozen Mix</item>
+		<item>Chance of Frozen Mix</item>
+		<item>Drizzle</item>
+		<item>Chance of Drizzle</item>
+		<item>Freezing Drizzle</item>
+		<item>Chance of Freezing Drizzle</item>
+		<item>Heavy Snow</item>
+		<item>Heavy Rain</item>
+		<item>Hot and Humid</item>
+		<item>Very Hot</item>
+		<item>Increasing Clouds</item>
+		<item>Clearing</item>
+		<item>Mostly Cloudy</item>
+		<item>Very Cold</item>
+		<item>Mostly Clear</item>
+		<item>Increasing Clouds</item>
+		<item>Clearing</item>
+		<item>Mostly Cloudy</item>
+		<item>Very Cold</item>
+		<item>Warm and Humid</item>
+		<item>Nowcast</item>
+		<item>Headline</item>
+		<item>30% Chance of Snow</item>
+		<item>40% Chance of Snow</item>
+		<item>50% Chance of Snow</item>
+		<item>30% Chance of Rain</item>
+		<item>40% Chance of Rain</item>
+		<item>50% Chance of Rain</item>
+		<item>30% Chance of Flurry</item>
+		<item>40% Chance of Flurry</item>
+		<item>50% Chance of Flurry</item>
+		<item>30% Chance of Rain</item>
+		<item>40% Chance of Rain</item>
+		<item>50% Chance of Rain</item>
+		<item>30% Chance of Sleet</item>
+		<item>40% Chance of Sleet</item>
+		<item>50% Chance of Sleet</item>
+		<item>30% Chance of Storms</item>
+		<item>40% Chance of Storms</item>
+		<item>50% Chance of Storms</item>
+		<item>30% Chance of Flurry</item>
+		<item>40% Chance of Flurry</item>
+		<item>50% Chance of Flurry</item>
+		<item>30% Chance of Sleet</item>
+		<item>40% Chance of Sleet</item>
+		<item>50% Chance of Sleet</item>
+		<item>30% Chance of Snow</item>
+		<item>40% Chance of Snow</item>
+		<item>50% Chance of Snow</item>
+		<item>30% Chance of Storms</item>
+		<item>40% Chance of Storms</item>
+		<item>50% Chance of Storms</item>
+		<item>30% Chance Rain Shower</item>
+		<item>40% Chance Rain Shower</item>
+		<item>50% Chance Rain Shower</item>
+		<item>30% Chance Snow Shower</item>
+		<item>40% Chance Snow Shower</item>
+		<item>50% Chance Snow Shower</item>
+		<item>30% Chance Rain Shower</item>
+		<item>40% Chance Rain Shower</item>
+		<item>50% Chance Rain Shower</item>
+		<item>30% Chance Snow Shower</item>
+		<item>40% Chance Snow Shower</item>
+		<item>50% Chance Snow Shower</item>
+		<item>30% Chance Freezing Rain</item>
+		<item>40% Chance Freezing Rain</item>
+		<item>50% Chance Freezing Rain</item>
+		<item>30% Chance Freezing Rain</item>
+		<item>40% Chance Freezing Rain</item>
+		<item>50% Chance Freezing Rain</item>
+		<item>30% Chance of Light Snow</item>
+		<item>40% Chance of Light Snow</item>
+		<item>50% Chance of Light Snow</item>
+		<item>30% Chance of Frozen Mix</item>
+		<item>40% Chance of Frozen Mix</item>
+		<item>50% Chance of Frozen Mix</item>
+		<item>30% Chance of Drizzle</item>
+		<item>40% Chance of Drizzle</item>
+		<item>50% Chance of Drizzle</item>
+		<item>30% Chance Freezing Drizzle</item>
+		<item>40% Chance Freezing Drizzle</item>
+		<item>50% Chance Freezing Drizzle</item>
+		<item>Chance of Snow</item>
+		<item>Chance of Rain</item>
+		<item>Chance of Flurry</item>
+		<item>Chance of Rain</item>
+		<item>Chance of Sleet</item>
+		<item>Chance of Storms</item>
+		<item>Chance of Flurry</item>
+		<item>Chance of Sleet</item>
+		<item>Chance of Snow</item>
+		<item>Chance of Storms</item>
+		<item>Chance Rain Shower</item>
+		<item>Chance Snow Shower</item>
+		<item>Chance Rain Shower</item>
+		<item>Chance Snow Shower</item>
+		<item>Chance Freezing Rain</item>
+		<item>Chance Freezing Rain</item>
+		<item>Chance of Light Snow</item>
+		<item>Chance of Frozen Mix</item>
+		<item>Chance of Drizzle</item>
+		<item>Chance Freezing Drizzle</item>
+		<item>windy</item>
+		<item>Foggy</item>
+		<item>Light Snow</item>
+		<item>Frozen Mix</item>
+		<item>Drizzle</item>
+		<item>Heavy Rain</item>
+		<item>Chance of Frozen Mix</item>
+		<item>Chance of Drizzle</item>
+		<item>Chance of Frozen Drizzle</item>
+		<item>30% Chance Drizzle</item>
+		<item>30% Chance Frozen Drizzle</item>
+		<item>30% Chance Frozen Mix</item>
+		<item>40% Chance Drizzle</item>
+		<item>40% Chance Fozen Drizzle</item>
+		<item>40% Chance Frozen Mix</item>
+		<item>40% Chance Drizzle</item>
+		<item>40% Chance Frozen Drizzle</item>
+		<item>40% Chance Frozen Mix</item>
+		<item>Chance of Light Snow</item>
+		<item>Unknown</item>
+    </string-array>
+    <string-array name="wkod">
+		<item>8</item>
+		<item>10</item>
+		<item>11</item>
+		<item>11</item>
+		<item>11</item>
+		<item>2</item>
+		<item>12</item>
+		<item>8</item>
+		<item>4</item>
+		<item>3</item>
+		<item>11</item>
+		<item>4</item>
+		<item>4</item>
+		<item>10</item>
+		<item>2</item>
+		<item>2</item>
+		<item>11</item>
+		<item>8</item>
+		<item>12</item>
+		<item>3</item>
+		<item>2</item>
+		<item>1</item>
+		<item>6</item>
+		<item>17</item>
+		<item>10</item>
+		<item>1</item>
+		<item>8</item>
+		<item>3</item>
+		<item>1</item>
+		<item>4</item>
+		<item>6</item>
+		<item>8</item>
+		<item>3</item>
+		<item>17</item>
+		<item>10</item>
+		<item>8</item>
+		<item>1</item>
+		<item>11</item>
+		<item>7</item>
+		<item>4</item>
+		<item>4</item>
+		<item>7</item>
+		<item>7</item>
+		<item>4</item>
+		<item>4</item>
+		<item>7</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>15</item>
+		<item>9</item>
+		<item>7</item>
+		<item>12</item>
+		<item>4</item>
+		<item>4</item>
+		<item>18</item>
+		<item>18</item>
+		<item>1</item>
+		<item>1</item>
+		<item>18</item>
+		<item>18</item>
+		<item>5</item>
+		<item>6</item>
+		<item>14</item>
+		<item>14</item>
+		<item>16</item>
+		<item>8</item>
+		<item>10</item>
+		<item>13</item>
+		<item>8</item>
+		<item>16</item>
+		<item>8</item>
+		<item>10</item>
+		<item>13</item>
+		<item>8</item>
+		<item>11</item>
+		<item>11</item>
+		<item>4</item>
+		<item>4</item>
+		<item>4</item>
+		<item>2</item>
+		<item>2</item>
+		<item>2</item>
+		<item>3</item>
+		<item>3</item>
+		<item>3</item>
+		<item>2</item>
+		<item>2</item>
+		<item>2</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>6</item>
+		<item>6</item>
+		<item>6</item>
+		<item>3</item>
+		<item>3</item>
+		<item>3</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>4</item>
+		<item>4</item>
+		<item>4</item>
+		<item>6</item>
+		<item>6</item>
+		<item>6</item>
+		<item>7</item>
+		<item>7</item>
+		<item>7</item>
+		<item>4</item>
+		<item>4</item>
+		<item>4</item>
+		<item>7</item>
+		<item>7</item>
+		<item>7</item>
+		<item>4</item>
+		<item>4</item>
+		<item>4</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>4</item>
+		<item>4</item>
+		<item>4</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>18</item>
+		<item>18</item>
+		<item>18</item>
+		<item>4</item>
+		<item>2</item>
+		<item>3</item>
+		<item>2</item>
+		<item>1</item>
+		<item>6</item>
+		<item>3</item>
+		<item>1</item>
+		<item>4</item>
+		<item>6</item>
+		<item>7</item>
+		<item>4</item>
+		<item>7</item>
+		<item>4</item>
+		<item>18</item>
+		<item>18</item>
+		<item>4</item>
+		<item>18</item>
+		<item>1</item>
+		<item>18</item>
+		<item>15</item>
+		<item>9</item>
+		<item>4</item>
+		<item>18</item>
+		<item>1</item>
+		<item>6</item>
+		<item>18</item>
+		<item>1</item>
+		<item>18</item>
+		<item>1</item>
+		<item>18</item>
+		<item>18</item>
+		<item>1</item>
+		<item>18</item>
+		<item>18</item>
+		<item>1</item>
+		<item>18</item>
+		<item>18</item>
+		<item>4</item>
+		<item>11</item>
+    </string-array>
+</resources>

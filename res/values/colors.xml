@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="lg_background_light">#ffededed</color>
+    <color name="ampm_off">#ffe0e0e0</color>
+    <color name="ampm_on">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="red">#ffee0000</color>
+    <color name="ltgrey">#ffe0e0e0</color>
+    <color name="ltgrey2">#ffdcdcdc</color>
+    <color name="ltgrey3">#ffd2d2d2</color>
+    <color name="dkgrey3">#ff3c3c3c</color>
+    <color name="dkgrey2">#ffababab</color>
+    <color name="dkgrey">#ff676767</color>
+    <color name="ltgrey4">#fff0f0f0</color>
+    <color name="darkblue">#ff00008b</color>
+    <color name="navy">#ff000080</color>
+    <color name="midnightblue">#ff191970</color>
+    <color name="steelblue">#ff4682b4</color>
+    <color name="royalblue">#ff4169e1</color>
+    <color name="aquamarin">#ff0072bc</color>
+    <color name="black">#ff000000</color>
+    <color name="semi_white">#ff888888</color>
+    <color name="semi_black">#ff666666</color>
+    <color name="orange">#fff99635</color>
+    <color name="trans">#00000000</color>
+    <color name="trans_grey">#46676767</color>
+    <color name="slategray">#ff708090</color>
+    <color name="divider">#ff9d9d9d</color>
+    <color name="mint_low_temp">#ff00f4ff</color>
+    <color name="red_high_temp">#ffff1313</color>
+    <color name="mint">#ff02edea</color>
+    <color name="index_bg">#ff636e7b</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/LinearLayout01"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android" android:baselineAligned="true" android:layout_width="fill_parent">
+<ScrollView android:id="@+id/ScrollView01"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent" android:fadeScrollbars="true">
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:id="@+id/linlayout">
+	<Button
+		android:id="@+id/btnStartSevice"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Start service" android:layout_marginTop="5sp"/>
+	<Button
+		android:id="@+id/btnStopSevice"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Stop service" />
+	<Button android:layout_marginTop="20sp" android:id="@+id/btnUpdate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Update"></Button>
+	<Button android:layout_marginTop="20sp" android:text="Restore widget" android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/btnRestore"></Button>
+	<EditText android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20sp" android:hint="Miejscowość (Bez pl znaków)" android:id="@+id/etCity"></EditText>
+	<Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Szukaj" android:id="@+id/btnSearch"></Button>
+	<Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gps" android:id="@+id/btnGps"></Button>
+	<TextView android:layout_marginTop="20sp" android:layout_height="wrap_content" android:text="Ostatni Update" android:layout_width="fill_parent" android:id="@+id/txLastu"></TextView>
+</LinearLayout>
+</ScrollView>
+</LinearLayout>
